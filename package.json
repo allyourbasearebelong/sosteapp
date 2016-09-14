@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/allyourbasearebelong/sosteapp.git#readme",
   "engines": {
-    "node": "5.1.1"
+    "node": "4.4.7"
   },
   "dependencies": {
     "botkit": "0.0.5",
