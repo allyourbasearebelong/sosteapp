@@ -1,6 +1,6 @@
 {
   "name": “sosteapp”,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "SOS TE's for aiding Gurus",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
   "author": “kenkozilla”,
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/allyourbasearebelong/sosteapp.git/issues"
+    "url": "https://github.com/allyourbasearebelong/sosteapp.git/"
   },
   "homepage": "https://github.com/allyourbasearebelong/sosteapp.git#readme",
   "engines": {
