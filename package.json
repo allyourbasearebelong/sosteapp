@@ -1,5 +1,5 @@
 {
-  "name": “soste”,
+  "name": “sosteapp”,
   "version": "1.0.0",
   "description": "SOS TE's for aiding Gurus",
   "main": "index.js",
@@ -15,7 +15,7 @@
     "slack",
     "slash command"
   ],
-  "author": “Kenkozilla”,
+  "author": “kenkozilla”,
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/allyourbasearebelong/sosteapp.git/issues"
